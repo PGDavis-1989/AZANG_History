@@ -1,0 +1,14 @@
+.nav {
+   background-color: blue; 
+}
+
+.nav-item a{
+    color: white;
+}
+
+.main-body {
+  margin-top: 20px;
+  margin-right: 15px;
+  margin-bottom: 20px;
+  margin-left: 15px;
+}
